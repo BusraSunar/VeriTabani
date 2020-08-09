@@ -12,3 +12,4 @@ Web sayfalari olusturulcak
   6. artist profili
   7. exhibition
   8. artist icin exhibition sayfasi olustur
+  9. Sifremi unuttum
