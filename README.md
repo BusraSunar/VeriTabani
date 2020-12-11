@@ -13,3 +13,22 @@ Web sayfalari olusturulcak
   7. exhibition
   8. artist icin exhibition sayfasi olustur
   9. Sifremi unuttum
+
+
+![](addArt1.png)
+
+![](addArt2.png)
+
+![](art1.png)
+
+![](art2.png)
+
+![](artist.png)
+
+![](changePassword.png)
+
+![](forgotPassword.png)
+
+![](login.png)
+
+![](register.png)
