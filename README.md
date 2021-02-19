@@ -1,18 +1,12 @@
-# VeriTabani
+# Art Management System
 
-VeriTabani tablolari olusturmak
-Veri olusturmak
-
-Web sayfalari olusturulcak
-  1. login sayfasi
-  2. register sayfasi
-  3. sifre degistir
-  4. urunler
-  5. artistler
-  6. artist profili
-  7. exhibition
-  8. artist icin exhibition sayfasi olustur
-  9. Sifremi unuttum
+Web pages 
+  1. login 
+  2. register 
+  3. change password
+  4. add art 
+  5. art
+  9. forgot password
 
 **ADD ART**
 ![](addArt1.png)
